@@ -14,7 +14,7 @@ public class View {
 
     public static void menu() throws ExceptionHandling {
         while (true) {
-            System.out.println("============| Food Panda |============");
+            System.out.println("Food Panda");
             System.out.println("1. Display All Data");
             System.out.println("2. Add New Data");
             System.out.println("3. Update Data");
