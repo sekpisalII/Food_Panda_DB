@@ -102,7 +102,7 @@ public class View {
 
     public static void queryAllData() throws ExceptionHandling {
         while(true){
-            System.out.println("==========| Display System |==========");
+            System.out.println("Display System");
             System.out.println("1. Display All Customers");
             System.out.println("2. Display All Orders");
             System.out.println("3. Display All Products");
