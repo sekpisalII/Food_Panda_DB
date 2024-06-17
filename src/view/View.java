@@ -36,7 +36,7 @@ public class View {
 
     public static void deleteData() throws ExceptionHandling{
         while (true) {
-            System.out.println("===========| Delete System |===========");
+            System.out.println("Delete System");
             System.out.println("1. Delete Customer");
             System.out.println("2. Delete Order");
             System.out.println("3. Delete Product");
@@ -58,7 +58,7 @@ public class View {
 
     public static void updateData() throws ExceptionHandling {
         while (true) {
-            System.out.println("===========| Update System |===========");
+            System.out.println("Update System");
             System.out.println("1. Update Customer");
             System.out.println("2. Update Order");
             System.out.println("3. Update Product");
@@ -80,7 +80,7 @@ public class View {
 
     public static void addNewData() throws ExceptionHandling {
         while (true) {
-            System.out.println("============| Add System |============");
+            System.out.println("Add System");
             System.out.println("1. Add New Customer");
             System.out.println("2. Add New Order");
             System.out.println("3. Add New Product");
